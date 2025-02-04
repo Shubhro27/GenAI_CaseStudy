@@ -1,7 +1,9 @@
 Business Overview:
 InnovaTech has expanded its presence in the digital retail world, especially on e-commerce giants like Amazon. This strategic move has not only widened its customer base but also resulted in a large influx of customer feedback, primarily in the form of online reviews. The company's products, notably its range of laptops, have become popular choices on these platforms, leading to an abundance of valuable but underutilized customer data.
+
 Current Challenge:
 InnovaTech currently analyzes customer reviews using basic sentiment analysis tools, which only provide a superficial understanding of customer opinions. In the competitive landscape of the laptop market, a more detailed and aspect-oriented analysis is crucial. Understanding specific customer sentiments on different aspects of laptops, such as user screen, technical specifications, etc, which is vital for targeted product improvements.
+
 Objective:
 The primary goal is to conduct a comprehensive aspect-based sentiment analysis of customer reviews for InnovaTech’s laptops, specifically focusing on three critical aspects: the laptop screen, keyboard, and mousepad. These components have been identified as crucial determinants of customer satisfaction and product usability. Project aims to provide nuanced insights into specific areas of customer satisfaction, dissatisfaction, and neutral feedback.The ultimate goal is to enhance overall product quality and customer experience, solidifying InnovaTech's position as a leader in the laptop market.
  
